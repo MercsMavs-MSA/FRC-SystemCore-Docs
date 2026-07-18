@@ -34,9 +34,9 @@ markdown_extensions:
 nav:
   - index.md
   - FRC Testing:
-  - frc/index.md
-  -frc/hardware.md
-  -frc/issues.md
-  -frc/progress.md
+    - frc/index.md
+    -  frc/hardware.md
+    - frc/issues.md
+    - frc/progress.md
   - FTC Testing:
-  - ftc/index.md1
+    - ftc/index.md
