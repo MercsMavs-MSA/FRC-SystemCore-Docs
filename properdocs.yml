@@ -32,6 +32,11 @@ markdown_extensions:
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Home: index.md
-  - Hardware: hardware.md
-  - Contact: contact.md
+  - index.md
+  - FRC Testing:
+  - frc/index.md
+  -frc/hardware.md
+  -frc/issues.md
+  -frc/progress.md
+  - FTC Testing:
+  - ftc/index.md1
