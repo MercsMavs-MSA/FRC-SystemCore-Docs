@@ -39,5 +39,6 @@ nav:
     - Commands V3:
       - frc/commandsv3/index.md
     - frc/issues.md
+    - frc/progress.md
   - FTC Testing:
     - ftc/index.md
