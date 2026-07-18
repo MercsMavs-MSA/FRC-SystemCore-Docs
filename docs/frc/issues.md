@@ -14,6 +14,18 @@ The AdvantageScope web server never runs, after AScope Lite is installed.
 
 ## Xbox Controller Right X axis always 0.0
 
+CommandGamepad works as expected.
+
+```java
+private final CommandGamepad joystick = new CommandGamepad(0);
+```
+
+CommandNiDsXboxController's right X axis always returns 0.
+
+```java
+private final CommandNiDsXboxController joystick = new CommandNiDsXboxController(0);
+```
+
 ## Logitech C920 not working in CameraServer
 
 CameraServer never sends any data from a Logitech C920 webcam. A Logitech C270 works fine.

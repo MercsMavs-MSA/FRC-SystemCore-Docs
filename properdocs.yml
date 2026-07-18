@@ -36,6 +36,8 @@ nav:
   - FRC Testing:
     - frc/index.md
     - frc/hardware.md
+    - Commands V3:
+      - frc/commandsv3/index.md
     - frc/issues.md
   - FTC Testing:
     - ftc/index.md
