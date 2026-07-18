@@ -1,3 +1,3 @@
 # SystemCore Testing Docs
 
-Work in progres
+Work in progress
